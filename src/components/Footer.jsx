@@ -45,14 +45,14 @@ export default function Footer() {
             <h3>Contact Us</h3>
           </div>
           <p>+91 1231231231</p>
-          <p>foodyummy@gmail.com</p>
-          <p>@foodyummy</p>
+          <p>khaida@gmail@gmail.com</p>
+          <p>@Khaidai</p>
           <p>412 Street, Ground Floor, India</p>
         </div>
       </Section>
       <LowerFooter className="lower__footer">
         <h2>
-          Copyright &copy; 2021 <span>Food Yummy</span>
+          Copyright &copy; 2021 <span>KHAIDAI</span>
         </h2>
       </LowerFooter>
     </div>
